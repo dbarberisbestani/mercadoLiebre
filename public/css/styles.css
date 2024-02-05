@@ -1,5 +1,5 @@
 :root {
-    --amarillo: #EAC926;
+    --amarillo: #928025;
     --azul: #03264C;
     --celeste: #1259c3;
     --gris_oscuro: #666;
@@ -243,7 +243,7 @@ header {
     }
 
 .descripcion:hover{
-    background-color: #EAC926;
+    background-color: #684ad4;
 }
 
 /*media del main*/
